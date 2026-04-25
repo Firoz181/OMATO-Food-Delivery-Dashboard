@@ -148,3 +148,4 @@ The **OMATO Food Delivery Dashboard** is a complete business intelligence soluti
 
 **Firoz Shah**
 Power BI | Data Analytics | Business Intelligence  
+Example:- https://github.com/Firoz181/OMATO-Food-Delivery-Dashboard/blob/main/OMATO%20Food%20Delivery%20Dashboard.jpg
